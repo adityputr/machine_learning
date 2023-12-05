@@ -4,4 +4,4 @@ pandas
 numpy
 pickle
 klearn.linear_model
-from sklearn.model_selection
+sklearn.model
