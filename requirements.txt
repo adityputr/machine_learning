@@ -4,4 +4,3 @@ pandas
 numpy
 pickles
 scikit-learn==0.23.2
-sklearn
