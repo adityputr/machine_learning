@@ -3,5 +3,5 @@ altair
 pandas
 numpy
 pickles
-klearn.linear_model
-sklearn.model
+scikit-learn
+sklearn
