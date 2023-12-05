@@ -3,5 +3,5 @@ altair
 pandas
 numpy
 pickles
-pip install scikit-learn
+scikit-learn
 pip install sklearn
