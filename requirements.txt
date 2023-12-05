@@ -2,6 +2,6 @@ streamlit
 altair
 pandas
 numpy
-pickle
+pickles
 klearn.linear_model
 sklearn.model
