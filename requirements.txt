@@ -3,5 +3,5 @@ altair
 pandas
 numpy
 pickles
-scikit-learn
-pip install sklearn
+sklearn.linear_model
+sklearn.model_selection
